@@ -1,3 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+# Use full Jekyll (not the github-pages gem) so we can install plugins
+gem "jekyll", "~> 4.2"
+gem "jekyll-remote-theme"
+gem "jekyll-include-cache"
