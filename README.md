@@ -1,6 +1,6 @@
-# jamestulloch (Jekyll resume)
+# jamestulloch (Jekyll CV)
 
-This repository contains a minimal Jekyll scaffold using the Minimal Mistakes theme configured as a resume site.
+This repository contains a minimal Jekyll scaffold using the Minimal Mistakes theme configured as a CV site.
 
 Quick start (install Ruby and Bundler first):
 

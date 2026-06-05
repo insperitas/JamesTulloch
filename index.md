@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "James Tulloch — Resume"
+title: "James Tulloch — CV"
 permalink: /
 ---
 
