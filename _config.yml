@@ -1,0 +1,21 @@
+title: "James Tulloch"
+email: "you@example.com"
+description: "Resume — James Tulloch"
+url: "https://jamestulloch.com"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: "James Tulloch"
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
